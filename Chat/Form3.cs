@@ -266,7 +266,10 @@ namespace Chat
                 label7.ForeColor = SystemColors.Control;
                 label8.ForeColor = SystemColors.Control;
             }
-            pictureBox4_Click(sender, e);
+            if (button1.Visible == true)
+            {
+                pictureBox4_Click(sender, e);
+            }
         }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
