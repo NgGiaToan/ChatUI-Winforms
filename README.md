@@ -11,7 +11,7 @@ Dùng để mô phỏng việc gửi tin nhắn, hình ảnh, icon.
 - Nền tảng: **.NET Framework 4**
 - Môi trường phát triển: **Visual Studio**
 - Giao diện: **Windows Forms (WinForms)**
-- Cơ sở dữ liệu: **SQL Server** *(tuỳ vào bạn dùng)*
+- Cơ sở dữ liệu: **SQL Server**
 
 ---
 
